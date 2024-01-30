@@ -1,11 +1,9 @@
 public class something {
     public static void main(String[] args){
+<<<<<<< HEAD
         System.out.println("This is something important from local");
-<<<<<<< Updated upstream
 =======
         System.out.println("This is something important from github");
->>>>>>> 97bfbf728bc803bd21d15dcbef801ffaf8a262e7
-=======
->>>>>>> Stashed changes
+>>>>>>> ac630ea74602a4f3be99b74161347900d5745d5c
     }
 }
